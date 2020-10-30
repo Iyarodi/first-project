@@ -1,0 +1,26 @@
+.full {background-color:lightgray;}
+
+hr {width:100%;height:8px;margin-left:auto;margin-right:auto;background-color:lightskyblue;}
+#theday {color:white;text-align:center;background-color:red;height:10px;font-size:10px;font-weight:10px;}
+.sturvs {color:green;font-size:20px;font-family:georgia,serif;transform:scale(2,3);}
+
+.firstheading {transform:scale(1,5);text-align:center;font-family:Georgia,serif;font-size:15px;padding:3em;}
+
+.thenight {text-align:center;
+font-size:12px;font-family:Georgia,serif;}
+
+.firstimage {text-align:left; width:50px;height:50px;}
+
+.three {font-size:10px;padding:15em;margin-left:-40%;border:3px;border-style:solid;border-color:black;padding:1em;}
+
+.fourth { font-size:10px;padding:5em;margin-left:+40%;border:3px;border-style:solid;border-color:black;padding:1em;float:right;}
+
+.smth { width:50px;height:50px;}
+
+#last { font-size:10px;padding:5em;margin-left:-40%;border:3px;border-style:solid;border-color:black;padding:1em;float:left;}
+
+
+
+
+
+
